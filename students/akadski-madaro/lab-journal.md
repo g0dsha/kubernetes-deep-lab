@@ -8,16 +8,14 @@ Lab journal - рабочий журнал участника Kubernetes Deep Lab
 
 | Поле | Значение |
 |---|---|
-| Имя | aeclipso |
-| GitHub | https://github.com/aeclipso/ |
+| Имя |  |
+| GitHub |  |
 
 ## Общий прогресс
 
 | Lab | Status | PR | Notes |
 |---|---|---|---|
-| Lab 00 - Environment Validation | done | https://github.com/iurii-anfinogenov/kubernetes-deep-lab/pull/5  |  |
-| Lab 01 - Node Baseline          | done | https://github.com/iurii-anfinogenov/kubernetes-deep-lab/pull/13 | |
-| Lab 02 - Container Runtime: containerd | done | https://github.com/iurii-anfinogenov/kubernetes-deep-lab/pull/16| |
+| Lab 00 - Environment Validation | not-started |  |  |
 
 ## Шаблон записи по лабораторной
 
